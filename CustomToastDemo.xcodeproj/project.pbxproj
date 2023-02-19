@@ -14,6 +14,7 @@
 		F276534029A1C8460054B6FF /* CustomToastDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F276533F29A1C8460054B6FF /* CustomToastDemoTests.swift */; };
 		F276534A29A1C8460054B6FF /* CustomToastDemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F276534929A1C8460054B6FF /* CustomToastDemoUITests.swift */; };
 		F276534C29A1C8460054B6FF /* CustomToastDemoUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F276534B29A1C8460054B6FF /* CustomToastDemoUITestsLaunchTests.swift */; };
+		F276535929A1CFFC0054B6FF /* CustomToastView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F276535829A1CFFC0054B6FF /* CustomToastView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		F276534529A1C8460054B6FF /* CustomToastDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CustomToastDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F276534929A1C8460054B6FF /* CustomToastDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomToastDemoUITests.swift; sourceTree = "<group>"; };
 		F276534B29A1C8460054B6FF /* CustomToastDemoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomToastDemoUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		F276535829A1CFFC0054B6FF /* CustomToastView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomToastView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				F276532E29A1C8440054B6FF /* CustomToastDemoApp.swift */,
 				F276533029A1C8440054B6FF /* ContentView.swift */,
+				F276535829A1CFFC0054B6FF /* CustomToastView.swift */,
 				F276533229A1C8460054B6FF /* Assets.xcassets */,
 				F276533429A1C8460054B6FF /* Preview Content */,
 			);
@@ -259,6 +262,7 @@
 			files = (
 				F276533129A1C8440054B6FF /* ContentView.swift in Sources */,
 				F276532F29A1C8440054B6FF /* CustomToastDemoApp.swift in Sources */,
+				F276535929A1CFFC0054B6FF /* CustomToastView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
